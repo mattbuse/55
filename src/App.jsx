@@ -84,7 +84,7 @@ function App() {
   return (
     <>
       <span><a href="https://mattbuse.github.io/Portfolio_Page/">HOME</a></span>
-      <span><a href="https://mattbuse.github.io/Portfolio_Page/JS-Projects/projects.html">PROJECTS</a></span>
+      <span><a href="https://mattbuse.github.io/Portfolio_Page/JS-Projects/Projects/projects.html">PROJECTS</a></span>
       <h2>The Game of Fifty-Five</h2>
       <p>Use the buttons to get the number below to 55</p>
       <p>But you have to get there in under 5.5 clicks. Don't go too fast!</p>
